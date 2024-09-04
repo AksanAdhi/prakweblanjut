@@ -32,6 +32,7 @@
             @endif
             <h1>Nama : Muhammad Aksan Adhi Pratama</h1>
             <h1>NPM : 2217051097</h1>
+            <h1>C</h1>
 
             <div class="max-w-7xl mx-auto p-6 lg:p-8">
                 <div class="flex justify-center">
